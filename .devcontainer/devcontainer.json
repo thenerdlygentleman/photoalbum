@@ -1,0 +1,19 @@
+{
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "streetsidesoftware.code-spell-checker",
+                "tamasfe.even-better-toml",
+                "vscode-icons-team.vscode-icons",
+                "charliermarsh.ruff",
+                "ms-python.python"
+            ]
+        }
+    },
+    "image": "thenerdlygentleman/playground:0.4.0",
+    "name": "photoalbum-dev",
+    "runArgs": [
+        "--name",
+        "photoalbum-dev"
+    ]
+}
